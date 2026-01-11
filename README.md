@@ -10,9 +10,11 @@ Dashboard ini dirancang untuk memberikan gambaran singkat namun komprehensif men
 >>>
 
 ##‼️Important Note / Catatan Penting
-This dashboard uses a **public sample dataset (Superstore)**. The project is intended **solely for educational and my learning process**.
+This dashboard uses a **public sample dataset (Superstore)**. 
+The project is intended **solely for educational and my learning process**.
 
-*Dashboard ini menggunakan **dataset sampel publik (Superstore)**. Proyek ini hanya digunakan untuk **tujuan pendidikan dan proses belajar saya**.*
+*Dashboard ini menggunakan **dataset sampel publik (Superstore)**. 
+Proyek ini hanya digunakan untuk **tujuan pendidikan dan proses belajar saya**.*
 
 >>>
 
@@ -25,11 +27,11 @@ The main objective of this dashboard is to present a comprehensive snapshot of S
 - Sales trends and forecasting
 
 *Dashboard ini membantu:*
-*- Menyajikan KPI utama bisnis*
-*- Mengidentifikasi wilayah dan kota dengan performa terbaik*
-*- Memahami pola pengiriman pelanggan*
-*- Menganalisis profit berdasarkan kategori produk*
-*- Melihat tren penjualan bulanan dan proyeksi ke depan*
+- *Menyajikan KPI utama bisnis*
+- *Mengidentifikasi wilayah dan kota dengan performa terbaik*
+- *Memahami pola pengiriman pelanggan*
+- *Menganalisis profit berdasarkan kategori produk*
+- *Melihat tren penjualan bulanan dan proyeksi ke depan*
 
 >>>
 
@@ -107,6 +109,7 @@ Kadek Savita Dyutianaya
 Applied Data Science Student
 
 Politeknik Elektronika Negeri Surabaya (PENS)
+
 
 
 
