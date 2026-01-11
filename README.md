@@ -5,12 +5,12 @@ This repository contains a **business performance dashboard** created using **Po
 The dashboard provides a high-level overview of sales performance, profit, shipping patterns, and regional comparisons to support **quick business insight and presentation**.
 
 ## Deskripsi Proyek (Bahasa Indonesia)
-Repository ini berisi dashboard **Business Performance Analysis** yang dibuat menggunakan **Power BI** dengan dataset **Superstore**.  
+Repository ini berisi dashboard **business performance analysis** yang dibuat menggunakan **Power BI** dengan **dataset Superstore**.  
 Dashboard ini dirancang untuk memberikan gambaran singkat namun komprehensif mengenai performa penjualan dan profit perusahaan.
 
 >>>
 
-## !! Important Note / Catatan Penting
+##‼️Important Note / Catatan Penting
 This dashboard uses a **public sample dataset (Superstore)**. The project is intended **solely for educational and my learning process**.
 
 Dashboard ini menggunakan **dataset sampel publik (Superstore)**. Proyek ini hanya digunakan untuk **tujuan pendidikan dan proses belajar saya**.
@@ -87,6 +87,7 @@ Penjualan menunjukkan peningkatan yang signifikan dari **September hingga Novemb
 ![Dashboard Preview](preview/dashboard_preview.png)
 
 🔗 Interactive dashboard (view-only):
+
 [https://app.powerbi.com/view?r=eyJrIjoiMTc3YjE4NDctNGRlNy00ODVkLWE1YTItZDM4MWNhMTM1MTRlIiwidCI6IjUxZDc5MGQ1LWJlZmItNDg0ZS04NmM2LWQxN2I2NDcyNzYyNCIsImMiOjEwfQ%3D%3D]
 
 >>>
@@ -107,7 +108,9 @@ berbasis data.
 
 ## Author
 Kadek Savita Dyutianaya
+
 Applied Data Science Student
 
 Politeknik Elektronika Negeri Surabaya (PENS)
+
 
