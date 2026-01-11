@@ -9,7 +9,7 @@ Dashboard ini dirancang untuk memberikan gambaran singkat namun komprehensif men
 
 >>>
 
-##‼️Important Note / Catatan Penting
+## ‼️Important Note / Catatan Penting
 This dashboard uses a **public sample dataset (Superstore)**. 
 The project is intended **solely for educational and my learning process**.
 
@@ -109,6 +109,7 @@ Kadek Savita Dyutianaya
 Applied Data Science Student
 
 Politeknik Elektronika Negeri Surabaya (PENS)
+
 
 
 
