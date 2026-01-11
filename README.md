@@ -25,7 +25,7 @@ The main objective of this dashboard is to present a comprehensive snapshot of S
 - Product category contribution
 - Sales trends and forecasting
 
-### Tujuan Dashboard
+## Tujuan Dashboard
 Dashboard ini membantu:
 - Menyajikan KPI utama bisnis
 - Mengidentifikasi wilayah dan kota dengan performa terbaik
@@ -97,7 +97,7 @@ Penjualan menunjukkan peningkatan yang signifikan dari **September hingga Novemb
 
 >>>
 
-### Kesimpulan Singkat
+## Kesimpulan Singkat
 Secara keseluruhan, dashboard ini memberikan insight yang jelas mengenai
 kondisi bisnis Superstore, mulai dari performa penjualan, kontribusi wilayah,
 hingga tren dan forecasting, sehingga dapat mendukung pengambilan keputusan
@@ -110,3 +110,4 @@ Kadek Savita Dyutianaya
 Applied Data Science Student
 
 Politeknik Elektronika Negeri Surabaya (PENS)
+
